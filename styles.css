@@ -36,7 +36,7 @@ input[type="text"] {
   height: 30px;
 }
 
-input[type=submit] {
+input[type="submit"] {
   background-color: #ff005f;
   border-color: #4d575f;
   border-radius: 4px;
